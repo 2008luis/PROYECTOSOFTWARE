@@ -68,10 +68,15 @@
         <h5>Nombre</h5>
         <asp:TextBox runat="server" ID="txtnombre" CssClass="form-control" placeholder="Ingrese su nombre" />
       </div>
+          
       <div class="col-md-4 mb-3">
         <h5>Correo Electrónico</h5>
         <asp:TextBox runat="server" ID="txtMail" TextMode="Email" CssClass="form-control" placeholder="Ingrese su correo" />
       </div>
+         <div class="col-md-4 mb-3">
+          <h5>Contraseña</h5>
+          <asp:TextBox runat="server" ID="txtContraseña" CssClass="form-control" placeholder="Ingrese la contraseña" TextMode="Password" />
+        </div>
       <div class="col-md-4 mb-3">
         <h5>Celular</h5>
         <asp:TextBox runat="server" ID="txtTelefono" TextMode="Number" CssClass="form-control" placeholder="Ingrese su número" />

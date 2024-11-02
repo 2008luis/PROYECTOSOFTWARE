@@ -31,7 +31,10 @@
                 <input id="password" type="password" formControlName="password" class="form-control" placeholder="CONTRASEÑA" required>
             </div>
             <button type="submit" class="btn btn-primary btn-block" [disabled]="loginForm.invalid">INICIAR SESIÒN</button>
-            <button type="button" class="btn btn-secondary btn-block mt-2" (click)="NewRegisterUser">REGISTRARSE</button>
+            <button type="button" class="btn btn-secondary btn-block mt-2" onclick="window.location.href='NewRegisterUser.aspx'">
+                REGISTRARSE
+            </button>        
+
         </form>
 
         <div *ngIf="invalidLogin" class="alert alert-danger">

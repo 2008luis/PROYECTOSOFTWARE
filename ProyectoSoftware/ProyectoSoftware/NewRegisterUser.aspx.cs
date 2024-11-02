@@ -27,6 +27,7 @@ namespace ProyectoSoftware
         Command.Parameters.AddWithValue("@Nombre", txtnombre.Text);
         Command.Parameters.AddWithValue("@Mail", txtMail.Text);
         Command.Parameters.AddWithValue("@Telefono", txtTelefono.Text);
+        Command.Parameters.AddWithValue("@Clave", txtContraseña.Text);
         Command.Parameters.AddWithValue("@Tipo", "I");
         cnn.Open();
         int row = Command.ExecuteNonQuery();
