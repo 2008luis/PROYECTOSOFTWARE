@@ -2,6 +2,9 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
     <style>
+        .nav{
+            display:none;
+        }
         .login-container {
             max-width: 400px;
             margin: auto;

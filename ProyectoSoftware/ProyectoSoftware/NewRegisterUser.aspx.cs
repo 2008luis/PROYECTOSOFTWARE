@@ -15,19 +15,19 @@ namespace ProyectoSoftware
 
     protected void BtnGuardar_Click(object sender, EventArgs e)
     {
-      if (string.IsNullOrEmpty(txtnombre.Text) || string.IsNullOrEmpty(txtMail.Text) || string.IsNullOrEmpty(txtTelefono.Text))
+            if (string.IsNullOrEmpty(txtnombre.Text) || string.IsNullOrEmpty(txtMail.Text) || string.IsNullOrEmpty(txtTelefono.Text) || string.IsNullOrEmpty(txtContraseña.Text));
       {
         lbERROR.InnerText = "Todos los campos son requeridos";
         return;
       }
       try
       {
-        SqlCommand Command = new SqlCommand("Login", cnn);
+        SqlCommand Command = new SqlCommand("InsertarUsuario", cnn);
         Command.CommandType = CommandType.StoredProcedure;
-        Command.Parameters.AddWithValue("@Nombre", txtnombre.Text);
-        Command.Parameters.AddWithValue("@Mail", txtMail.Text);
-        Command.Parameters.AddWithValue("@Telefono", txtTelefono.Text);
+        Command.Parameters.AddWithValue("@nombre", txtnombre.Text);
+        Command.Parameters.AddWithValue("@correo", txtMail.Text);
         Command.Parameters.AddWithValue("@Clave", txtContraseña.Text);
+        Command.Parameters.AddWithValue("@Telefono", txtTelefono.Text);
         Command.Parameters.AddWithValue("@Tipo", "I");
         cnn.Open();
         int row = Command.ExecuteNonQuery();
