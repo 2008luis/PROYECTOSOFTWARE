@@ -2,6 +2,9 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
   <style>
+      .nav{
+          display:none;
+      }
     body {
       background-color: #f5f7fa;
       display: flex;
@@ -55,37 +58,39 @@
       text-align: center;
     }
   </style>
-
- <div class="container">
+<div class="container">
   <div class="alert alert-warning" role="alert" id="lbERROR" runat="server"></div>
   <div class="alert alert-success" role="alert" id="lbBien" runat="server"></div>
 
   <h2>Registrar Nuevo Usuario</h2>
-  
+
   <div class="form-section">
     <div class="row">
-      <div class="col-md-4 mb-3">
+
+      <div class="col-md-12 mb-3">
         <h5>Nombre</h5>
         <asp:TextBox runat="server" ID="txtnombre" CssClass="form-control" placeholder="Ingrese su nombre" />
       </div>
-          
-      <div class="col-md-4 mb-3">
+
+      <div class="col-md-12 mb-3">
         <h5>Correo Electrónico</h5>
         <asp:TextBox runat="server" ID="txtMail" TextMode="Email" CssClass="form-control" placeholder="Ingrese su correo" />
       </div>
-         <div class="col-md-4 mb-3">
-          <h5>Contraseña</h5>
-          <asp:TextBox runat="server" ID="txtContraseña" CssClass="form-control" placeholder="Ingrese la contraseña" TextMode="Password" />
-        </div>
-      <div class="col-md-4 mb-3">
+
+      <div class="col-md-12 mb-3">
+        <h5>Contraseña</h5>
+        <asp:TextBox runat="server" ID="txtContraseña" CssClass="form-control" placeholder="Ingrese la contraseña" TextMode="Password" />
+      </div>
+
+      <div class="col-md-12 mb-3">
         <h5>Celular</h5>
         <asp:TextBox runat="server" ID="txtTelefono" TextMode="Number" CssClass="form-control" placeholder="Ingrese su número" />
       </div>
-      <div class="col-md-12 bajar">
+
+      <div class="col-md-12 mb-3">
         <asp:Button Text="Guardar" ID="BtnGuardar" runat="server" CssClass="btn btn-outline-primary" OnClick="BtnGuardar_Click" />
       </div>
     </div>
   </div>
 </div>
-
-</asp:Content>
+    </asp:Content>

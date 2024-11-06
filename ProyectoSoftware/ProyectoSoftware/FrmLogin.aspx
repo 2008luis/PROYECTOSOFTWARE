@@ -23,21 +23,23 @@
     </style>
 
     <div class="login-container">
+ <div class="alert alert-warning" role="alert" id="lbERROR" runat="server"></div>
+ <div class="alert alert-success" role="alert" id="lbBien" runat="server"></div>
         <h2>Iniciar Sesión</h2>
         <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
             <div class="form-group">
                 <label for="username">Usuario</label>
-                <input id="username" type="text" formControlName="username" class="form-control" placeholder="USUARIO" required>
+               <asp:TextBox ID="username" runat="server" CssClass="form-control" placeholder="USUARIO" required />
             </div>
             <div class="form-group">
                 <label for="password">Contraseña</label>
-                <input id="password" type="password" formControlName="password" class="form-control" placeholder="CONTRASEÑA" required>
+                <asp:TextBox ID="pass" runat="server" TextMode="Password" CssClass="form-control" placeholder="CONTRASEÑA" required />
             </div>
-            <button type="submit" class="btn btn-primary btn-block" [disabled]="loginForm.invalid">INICIAR SESIÒN</button>
-            <button type="button" class="btn btn-secondary btn-block mt-2" onclick="window.location.href='NewRegisterUser.aspx'">
+           <asp:Button Text="INGRESAR" ID="btnIngresar" runat="server" CssClass="btn btn-outline-primary" OnClick="btnIngresar_Click"
+               href="FrmInicio.aspx" />
+              <button type="button" class="btn btn-secondary btn-block mt-2" onclick="window.location.href='NewRegisterUser.aspx'">
                 REGISTRARSE
             </button>        
-
         </form>
 
         <div *ngIf="invalidLogin" class="alert alert-danger">

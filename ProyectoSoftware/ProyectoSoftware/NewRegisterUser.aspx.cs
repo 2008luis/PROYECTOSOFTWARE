@@ -32,6 +32,7 @@ namespace ProyectoSoftware
         cnn.Open();
         int row = Command.ExecuteNonQuery();
         cnn.Close();
+        
 
         if(row > 0)
         {
@@ -45,5 +46,5 @@ namespace ProyectoSoftware
         lbERROR.InnerText = $"Ha ocurrido una excepción no controlada; {ex.Message}";
       }
     }
-  }
+    }
 }

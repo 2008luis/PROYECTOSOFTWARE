@@ -121,6 +121,7 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="FrmCrearRecordatorio.aspx" />
+    <Content Include="FrmInicio.aspx" />
     <Content Include="FrmLogin.aspx" />
     <Content Include="FrmMisRegistros.aspx" />
     <Content Include="FrmPedirAyuda.aspx" />
@@ -217,6 +218,13 @@
     </Compile>
     <Compile Include="FrmCrearRecordatorio.aspx.designer.cs">
       <DependentUpon>FrmCrearRecordatorio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.aspx.cs">
+      <DependentUpon>FrmInicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.aspx.designer.cs">
+      <DependentUpon>FrmInicio.aspx</DependentUpon>
     </Compile>
     <Compile Include="FrmLogin.aspx.cs">
       <DependentUpon>FrmLogin.aspx</DependentUpon>

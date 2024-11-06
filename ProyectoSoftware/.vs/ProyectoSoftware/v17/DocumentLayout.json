@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\frmcrearrecordatorio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frmcrearrecordatorio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|c:\\users\\cbn\\onedrive\\escritorio\\intel\\proyectosoftware\\proyectosoftware\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|c:\\users\\cbn\\onedrive\\escritorio\\intel\\proyectosoftware\\proyectosoftware\\frmlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frmlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\newregisteruser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,48 +19,44 @@
       "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|c:\\users\\cbn\\onedrive\\escritorio\\intel\\proyectosoftware\\proyectosoftware\\newregisteruser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\newregisteruser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\frmmisregistros.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frmmisregistros.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|c:\\users\\cbn\\onedrive\\escritorio\\intel\\proyectosoftware\\proyectosoftware\\frminicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frminicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\newregisteruser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\newregisteruser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|c:\\users\\cbn\\onedrive\\escritorio\\intel\\proyectosoftware\\proyectosoftware\\frmcrearrecordatorio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frmcrearrecordatorio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\newregisteruser.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\newregisteruser.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|c:\\users\\cbn\\onedrive\\escritorio\\intel\\proyectosoftware\\proyectosoftware\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\frmmisregistros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frmmisregistros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\frmmisregistros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\frmmisregistros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|c:\\users\\cbn\\onedrive\\escritorio\\intel\\proyectosoftware\\proyectosoftware\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\newregisteruser.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\newregisteruser.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\proyectosoftware\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD915711-A672-4F9B-B470-DD2E0699F67D}|ProyectoSoftware\\ProyectoSoftware.csproj|solutionrelative:proyectosoftware\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,22 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Master",
-              "RelativeDocumentMoniker": "ProyectoSoftware\\Site.Master",
-              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Master",
-              "RelativeToolTip": "ProyectoSoftware\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-01T23:50:57.099Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -92,33 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Site.Master.designer.cs",
-              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Master.designer.cs",
-              "RelativeDocumentMoniker": "ProyectoSoftware\\Site.Master.designer.cs",
-              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Master.designer.cs",
-              "RelativeToolTip": "ProyectoSoftware\\Site.Master.designer.cs",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmLogin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ProyectoSoftware\\FrmLogin.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmLogin.aspx.designer.cs",
+              "RelativeToolTip": "ProyectoSoftware\\FrmLogin.aspx.designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:31:22.338Z",
+              "WhenOpened": "2024-11-06T14:29:26.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Site.Master.cs",
-              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Master.cs",
-              "RelativeDocumentMoniker": "ProyectoSoftware\\Site.Master.cs",
-              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Master.cs",
-              "RelativeToolTip": "ProyectoSoftware\\Site.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:15:31.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "NewRegisterUser.aspx",
               "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\NewRegisterUser.aspx",
               "RelativeDocumentMoniker": "ProyectoSoftware\\NewRegisterUser.aspx",
@@ -126,38 +99,64 @@
               "RelativeToolTip": "ProyectoSoftware\\NewRegisterUser.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-01T23:50:42.16Z",
+              "WhenOpened": "2024-11-06T14:17:21.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmMisRegistros.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmMisRegistros.aspx.cs",
-              "RelativeDocumentMoniker": "ProyectoSoftware\\FrmMisRegistros.aspx.cs",
-              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmMisRegistros.aspx.cs",
-              "RelativeToolTip": "ProyectoSoftware\\FrmMisRegistros.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "FrmInicio.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmInicio.aspx",
+              "RelativeDocumentMoniker": "ProyectoSoftware\\FrmInicio.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmInicio.aspx",
+              "RelativeToolTip": "ProyectoSoftware\\FrmInicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T13:57:04.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Master",
+              "RelativeDocumentMoniker": "ProyectoSoftware\\Site.Master",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Master",
+              "RelativeToolTip": "ProyectoSoftware\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T13:54:44.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmLogin.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoSoftware\\FrmLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmLogin.aspx.cs",
+              "RelativeToolTip": "ProyectoSoftware\\FrmLogin.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T23:42:04.976Z",
+              "WhenOpened": "2024-11-06T13:36:58.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NewRegisterUser.aspx.cs",
               "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\NewRegisterUser.aspx.cs",
               "RelativeDocumentMoniker": "ProyectoSoftware\\NewRegisterUser.aspx.cs",
               "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\NewRegisterUser.aspx.cs",
               "RelativeToolTip": "ProyectoSoftware\\NewRegisterUser.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T23:40:45.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "FrmLogin.aspx",
               "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmLogin.aspx",
               "RelativeDocumentMoniker": "ProyectoSoftware\\FrmLogin.aspx",
@@ -170,20 +169,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Web.config",
               "RelativeDocumentMoniker": "ProyectoSoftware\\Web.config",
               "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Web.config",
               "RelativeToolTip": "ProyectoSoftware\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-02T00:32:02.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "FrmCrearRecordatorio.aspx",
               "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmCrearRecordatorio.aspx",
               "RelativeDocumentMoniker": "ProyectoSoftware\\FrmCrearRecordatorio.aspx",
@@ -196,20 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NewRegisterUser.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\NewRegisterUser.aspx.designer.cs",
-              "RelativeDocumentMoniker": "ProyectoSoftware\\NewRegisterUser.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\NewRegisterUser.aspx.designer.cs",
-              "RelativeToolTip": "ProyectoSoftware\\NewRegisterUser.aspx.designer.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:31:35.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Site.Mobile.Master",
               "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Site.Mobile.Master",
               "RelativeDocumentMoniker": "ProyectoSoftware\\Site.Mobile.Master",
@@ -222,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "ProyectoSoftware\\Properties\\AssemblyInfo.cs",
@@ -234,19 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Global.asax.cs",
-              "RelativeDocumentMoniker": "ProyectoSoftware\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Global.asax.cs",
-              "RelativeToolTip": "ProyectoSoftware\\Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:51:20.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "FrmMisRegistros.aspx",
               "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\FrmMisRegistros.aspx",
               "RelativeDocumentMoniker": "ProyectoSoftware\\FrmMisRegistros.aspx",
@@ -254,7 +228,34 @@
               "RelativeToolTip": "ProyectoSoftware\\FrmMisRegistros.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-26T01:03:48.016Z"
+              "WhenOpened": "2024-10-26T01:03:48.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewRegisterUser.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\NewRegisterUser.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ProyectoSoftware\\NewRegisterUser.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\NewRegisterUser.aspx.designer.cs",
+              "RelativeToolTip": "ProyectoSoftware\\NewRegisterUser.aspx.designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:31:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ProyectoSoftware\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\Intel\\ProyectoSoftware\\ProyectoSoftware\\Global.asax.cs",
+              "RelativeToolTip": "ProyectoSoftware\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:51:20.554Z",
+              "EditorCaption": ""
             }
           ]
         }
