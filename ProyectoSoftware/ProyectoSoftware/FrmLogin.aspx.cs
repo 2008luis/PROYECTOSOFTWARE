@@ -26,7 +26,7 @@ namespace ProyectoSoftware
             }
             try
             {
-                int idRol=-1;
+                int idRol=- 1;
                 SqlCommand Command = new SqlCommand("ValidarUsuarioRol", cnn);
                 Command.CommandType = CommandType.StoredProcedure;
                 Command.Parameters.AddWithValue("@nombre_usuario", username.Text);
@@ -37,7 +37,7 @@ namespace ProyectoSoftware
                 cnn.Close();
                 if (row > 0)
                 {
-                    lbBien.InnerText = "Ingreso con Éxito ";
+                    lbBien.InnerText = "Ingreso con Éxito";
                     return;
                 }
                 lbERROR.InnerText = "Revise los Usuarios";

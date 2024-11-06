@@ -15,7 +15,8 @@ namespace ProyectoSoftware
 
     protected void BtnGuardar_Click(object sender, EventArgs e)
     {
-            if (string.IsNullOrEmpty(txtnombre.Text) || string.IsNullOrEmpty(txtMail.Text) || string.IsNullOrEmpty(txtTelefono.Text) || string.IsNullOrEmpty(txtContraseña.Text));
+            if (string.IsNullOrEmpty(txtnombre.Text) || string.IsNullOrEmpty(txtMail.Text)
+                || string.IsNullOrEmpty(txtTelefono.Text) || string.IsNullOrEmpty(txtContraseña.Text))
       {
         lbERROR.InnerText = "Todos los campos son requeridos";
         return;
@@ -32,14 +33,14 @@ namespace ProyectoSoftware
         cnn.Open();
         int row = Command.ExecuteNonQuery();
         cnn.Close();
-        
-
         if(row > 0)
         {
           lbBien.InnerText = "Datos Guardados Con Exito";
+                    lbERROR.Visible = false;
           return;
         }
-        lbERROR.InnerText = "Algo salio mal, por favor vuelva a intentar";
+         lbERROR.InnerText = "Algo salio mal, por favor vuelva a intentar";
+             lbBien.Visible = false;
       }
       catch (Exception ex)
       {
